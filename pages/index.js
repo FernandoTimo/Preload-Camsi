@@ -35,7 +35,7 @@ export default function Index() {
         </div>
       </header>
       <div className={style.Content}>
-        <span>^^</span>
+        <span>...</span>
       </div>
       <footer>
         <div className={style.loader}></div>
